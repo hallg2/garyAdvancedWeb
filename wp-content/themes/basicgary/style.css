@@ -541,7 +541,7 @@ a:active {
 	display: block;
 	float: left;
 	width: 100%;
-	border: solid #003300 1px;
+	/* border: solid #003300 1px; */
 }
 
 .main-navigation ul {
